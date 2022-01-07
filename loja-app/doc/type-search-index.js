@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"com.crossjoin.lojaapp.model","l":"Loja"},{"p":"com.crossjoin.lojaapp","l":"LojaAppApplication"}];updateSearchResults();
